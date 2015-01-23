@@ -412,6 +412,7 @@
 					"$(PROJECT_DIR)/GooglePlusSample/Framework",
 				);
 				INFOPLIST_FILE = GooglePlusSample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -427,6 +428,7 @@
 					"$(PROJECT_DIR)/GooglePlusSample/Framework",
 				);
 				INFOPLIST_FILE = GooglePlusSample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -486,6 +488,7 @@
 				5B766F481A71682D003F92E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B766F491A71682D003F92E2 /* Build configuration list for PBXNativeTarget "GooglePlusSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +497,7 @@
 				5B766F4B1A71682D003F92E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
